@@ -1,0 +1,11 @@
+{
+  "name": "smallest-number-in-array",
+  "version": "1.0.0",
+  "description": "Searching smallest number in array attending a meme",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carlos Ceballos Amador",
+  "license": "ISC"
+}
