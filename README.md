@@ -17,3 +17,8 @@ npm start
 
 ### Contribution to the project
 See [My own page](https://charlyceballos.github.io/).
+
+### Meme
+<div>
+  <img src='./meme.jpeg' />
+</div>
