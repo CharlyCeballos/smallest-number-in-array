@@ -1,5 +1,7 @@
 # smallest-number-in-array
 
+## Searching smallest number in array attending a meme
+
 ## Project setup
 ```
 npm install
